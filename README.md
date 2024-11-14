@@ -14,7 +14,6 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 ## Linux Distros
 
 * [Arch Linux](https://www.archlinux.org/donate/)
-  * [Antergos](https://antergos.com/donate/)
   * [Apricity OS](https://apricityos.com/) - Donate button is in the upper right
   * [Chakra](https://chakralinux.org/?donate)
   * [Manjaro](https://manjaro.github.io/donate/)
