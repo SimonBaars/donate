@@ -91,10 +91,6 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [Wine](https://www.winehq.org/donate)
 * [WinSCP](https://winscp.net/eng/donate.php)
 
-### Audio
-
-* [Audacity](http://www.audacityteam.org/donate/)
-
 ### Browser Extensions
 
 * [Adblock Plus](https://adblockplus.org/en/contribute#donate)
