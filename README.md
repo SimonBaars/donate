@@ -116,6 +116,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [GIMP](https://www.gimp.org/donating/#donate-to-the-project)
 * [Inkscape](https://inkscape.org/en/support-us/donate/)
 * [ImageOptim](https://imageoptim.com/donate.html)
+* [Krita](https://krita.org/en/donations/)
 * [Trimage](https://pledgie.com/campaigns/9607/pledge/confirm)
 
 ### Video
